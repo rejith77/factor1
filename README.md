@@ -5,3 +5,5 @@
 ![cppcheck-action](https://github.com/rejith77/factor1/workflows/cppcheck-action/badge.svg)
 
 ![Unit testing](https://github.com/rejith77/factor1/workflows/Unit%20testing/badge.svg)
+
+![C/C++ CI](https://github.com/rejith77/factor1/workflows/C/C++%20CI/badge.svg)
